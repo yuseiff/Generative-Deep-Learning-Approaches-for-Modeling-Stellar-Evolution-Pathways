@@ -2,6 +2,8 @@
 
 This project implements and compares Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs) for modeling stellar evolution using the HYG stellar database. The models learn to generate realistic Hertzsprung-Russell diagrams and simulate plausible stellar evolution tracks without explicit physical modeling.
 
+*Standard theoretical HR diagram showing main regions: Main Sequence, Giants, Supergiants, and White Dwarfs*
+
 ## Dataset
 
 We used the HYG Stellar Database (v4.2) containing 119,614 stellar entries. After preprocessing and filtering, we focused on these key features:
@@ -42,12 +44,14 @@ We trained and compared 6 different models with early stopping implemented in al
 *Generated stellar evolution tracks showing main sequence to red giant and white dwarf transitions*
 
 ## Project Structure
+```
 stellar-evolution-gan/
 ├── GANS_version.ipynb # GAN implementation notebook
 ├── VAE_version.ipynb # VAE implementation notebook
 ├── hyg_v42.csv # HYG stellar database
 ├── Results # included all the graphs and the results
 └── README.md # This file
+```
 
 ## License
 The HYG database is licensed with the [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/deed.en).
