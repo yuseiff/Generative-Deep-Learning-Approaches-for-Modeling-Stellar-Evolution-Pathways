@@ -33,6 +33,7 @@ We trained and compared 6 different models with early stopping implemented in al
 ## Results
 
 ### Real vs Synthetic HR Diagram Comparison
+<img width="1452" height="590" alt="Image" src="https://github.com/user-attachments/assets/49e72bf0-5826-4e0e-b129-16d710417716" />
 
 *Comparison of real stars (left) and GAN-generated synthetic stars (right) after 100 epochs with callbacks*
 
