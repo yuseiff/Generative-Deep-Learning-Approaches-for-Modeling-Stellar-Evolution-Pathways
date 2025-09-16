@@ -38,10 +38,12 @@ We trained and compared 6 different models with early stopping implemented in al
 *Comparison of real stars (left) and GAN-generated synthetic stars (right) after 100 epochs with callbacks*
 
 ### Training History
+<img width="1189" height="390" alt="Image" src="https://github.com/user-attachments/assets/54c91a8f-be5a-435e-be9e-3f980344565b" />
 
 *Training loss history for GAN showing discriminator and generator convergence*
 
 ### Stellar Evolution Tracks
+<img width="1189" height="989" alt="Image" src="https://github.com/user-attachments/assets/ad5c2675-9ed7-461a-b5d6-45efa74f7ee9" />
 
 *Generated stellar evolution tracks showing main sequence to red giant and white dwarf transitions*
 
