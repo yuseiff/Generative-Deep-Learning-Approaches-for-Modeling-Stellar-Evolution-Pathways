@@ -1,0 +1,11 @@
+{
+  "latent_dim": 2,
+  "input_dim": 4,
+  "features": [
+    "ci",
+    "absmag",
+    "log_lum",
+    "dist"
+  ],
+  "training_samples": 107368
+}
