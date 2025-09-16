@@ -1,7 +1,7 @@
 # Generative Deep Learning Approaches for Modeling Stellar Evolution Pathways
 
 This project implements and compares Generative Adversarial Networks (GANs) and Variational Autoencoders (VAEs) for modeling stellar evolution using the HYG stellar database. The models learn to generate realistic Hertzsprung-Russell diagrams and simulate plausible stellar evolution tracks without explicit physical modeling.
-
+<img width="800" height="802" alt="Image" src="https://github.com/user-attachments/assets/6dc505ef-aaa6-42f9-aef9-270dfa66b2c0" />
 *Standard theoretical HR diagram showing main regions: Main Sequence, Giants, Supergiants, and White Dwarfs*
 
 ## Dataset
