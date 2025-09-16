@@ -43,6 +43,7 @@ We trained and compared 6 different models with early stopping implemented in al
 *Training loss history for GAN showing discriminator and generator convergence*
 
 ### Latent Space Clustering Analysis
+<img width="936" height="694" alt="Image" src="https://github.com/user-attachments/assets/75e2d0e2-af8a-493c-9e2f-07c68c726573" />
 
 *Clustering analysis of the VAE's latent space. Stars are colored by their cluster assignment, showing that the model automatically learns to separate different stellar types (Main Sequence, Red Giants, White Dwarfs) in a physically meaningful way, which enables the generation of plausible evolution tracks.*
 
